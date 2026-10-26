@@ -2,16 +2,21 @@
 
 🎓 First-year B.Tech student at R.V.R. & J.C. College of Engineering.
 
-💻 I'm beginning my journey in programming and software development.
+🐍 Currently learning Python and exploring the world of programming.
 
-🌱 Currently learning new technologies, improving my problem-solving skills, and exploring the world of coding.
+🌱 Improving my coding skills, problem-solving abilities, and understanding of software development.
 
-🎯 My goal is to build practical projects, learn continuously, and grow as a software developer.
+🎯 My goal is to build useful projects, learn new technologies, and grow as a software developer.
 
-🤝 I'm open to connecting with fellow students, developers, and tech enthusiasts.
+🤝 Always open to learning, collaborating, and connecting with people in tech.
 
-### 📫 Connect with me
+### 🛠️ Currently Learning
+- Python Programming
+- Programming Fundamentals
+- Problem-Solving
+
+### 📫 Connect with Me
 - LinkedIn: linkedin.com/in/busupalli-sathya-narayana-reddy-1b2b40446
 
 ---
-⭐ *Learning every day, improving step by step.*
+⭐ *Learning, building, and improving one step at a time.*
